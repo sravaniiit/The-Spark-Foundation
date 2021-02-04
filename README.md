@@ -1,5 +1,5 @@
 # The-Spark-Foundation
-It contains the Task one that is prediction of supervised Learning
+It contains the Tasks one that is prediction of supervised Learning
 Task#1:
 
 Predict the percentage of an student based on the no. of study hours.
@@ -23,3 +23,5 @@ I Installed Anaconda Navigator and Used Jupyter note book
 Used Linear Regression
 
 Youtube Link:https://youtu.be/zzqBIHpZ0Sw
+
+Youtube Link for Task#2:https://youtu.be/EPnOWqMdZjY
