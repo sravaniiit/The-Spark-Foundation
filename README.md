@@ -25,3 +25,5 @@ Used Linear Regression
 Youtube Link:https://youtu.be/zzqBIHpZ0Sw
 
 Youtube Link for Task#2:https://youtu.be/EPnOWqMdZjY
+
+Youtube link for Task#3:https://youtu.be/nWR7qsQOS-E
