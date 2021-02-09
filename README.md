@@ -30,3 +30,7 @@ Youtube link for Task#3:https://youtu.be/nWR7qsQOS-E
 
 Youtube Link for Task#4:https://youtu.be/mSYVtY3xOPw
 
+Youtube Link for Task#5:https://youtu.be/kkDuTxC8pqE
+
+Youtube Link for Task#6:https://youtu.be/UkzMyeBHJSY
+
